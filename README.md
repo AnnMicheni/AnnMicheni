@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnMicheni
-- 👀 I’m interested in technology
+- 👀 I’m a technology enthusiast
 - 🌱 I’m currently learning Python, SQL and JavaScript
 - 💞️ I’m looking to collaborate on various events, mentorship programs and projects
 - 📫 How to reach me through my gmail annemicheni5@gmail.com
